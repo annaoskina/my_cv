@@ -1,7 +1,4 @@
 ---
-title: "Anna Oskina's CV"
-author: "Anna Oskina"
-date: "20.01.2020"
 output: html_document
 ---
 # Anna Oskina
