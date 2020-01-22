@@ -1,5 +1,8 @@
 ---
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
 ---
 # Anna Oskina
 Lecturer at HSE University, Master's student in DH.
@@ -23,7 +26,7 @@ Japanese classical literature, travel diaries, kuzushi-ji, xylographs, manuscrip
 
 ### Research interests
 
-DH, text mining, quantitative analyse, Meiji-Taisho fiction writings
+DH, text mining, quantitative analysis, Meiji-Taisho fiction writings
 
 
 ## Education
