@@ -1,0 +1,100 @@
+---
+output:
+  html_document: default
+  pdf_document: 
+    latex_engine: xelatex
+  word_document: default
+---
+# Anna Oskina
+NLP Data Scientist
+
+<div id="webaddress">
+My e-mail: <a href="annaoskina@gmail.com">annaoskina@gmail.com</a>
+| My GitHub page: <a href="https://github.com/annaoskina">https://github.com/annaoskina</a>
+</div>
+
+
+## Currently
+
+Guest contributor for Japanese Study in <a href="https://digitalorientalist.com/">The Digital Orientalist </a>
+
+### Specialized in
+
+Japanese study, Digital Humanities
+
+
+### Research interests
+
+NLP, Japanese text mining, data analysis, TF-IDF, topic modeling, stylometry, network analysis, text encoding initiative (TEI), Japanese literature, book history
+
+## Skills
+
+* Python (MeCab, fugashi, UniDic, NLTK, numpy, matplotlib, scikit-learn)
+* R (tidyverse: ggplot2, tibble, tidyr, dplyr, lubridate, tidytext, leaflet)
+
+## Education
+
+`2019-2022`
+__MA, Digital Humanities, National Research University 'Higher School of Economics', Moscow, Russia.__
+
+`2006-2011`
+__Specialist degree, Russian State University for the Humanities, Moscow, Russia.__
+
+
+## Workshops and scholarships
+
+`June 2022`
+__"Japanese Language Text Mining”, Digital Humanities Methods for Japanese Studies, University of Chicago, Chicago, USA.__
+
+`February 2019`
+__EAJRS/NIJL Kuzushi-ji Workshop 2019, Collège de France, Paris, France.__
+
+`August 2018`
+__Fifth Graduate Summer School in Japanese Early-modern Palaeography, Emmanuel College, Cambridge, UK.__
+
+`2009-2010`
+__Monbukagakusho student at Chiba Univesrity, Chiba, Japan.__
+
+
+## Occupation
+
+`2022-now`
+__Guest contributor for Japanese Study in The Digital Orientalist (remote, part-time)__ 
+
+`2011-2022`
+__Lecturer at National Research University 'Higher School of Economics', Moscow, Russia.__ 
+<a href="https://www.hse.ru/en/staff/annaoskina">https://www.hse.ru/en/staff/annaoskina</a>
+
+Courses:
+
+* Contemporary Japanese
+* Classical Japanese
+* Japanese literature
+
+
+## Awards
+
+`2019`
+Best Teacher - 2019, HSE University, Moscow.
+
+## Recent conferences
+
+`2022` 23th Annual Conference "History and Culture of Japan" (Moscow). Presentation: Semantic Analysis of Loanwords Graphics in Fiction of the Meiji-Taisho Periods.
+
+
+`2022` EADH2021 (Krasnoyarsk). Presentation: Parents and Children in Russian Drama.
+
+
+`2019` 21th Annual Conference "History and Culture of Japan" (Moscow). Presentation: Travel notes of the Nun Abutsu: connection with the literary tradition.
+
+
+`2018`  20th Annual Conference "History and Culture of Japan" (Moscow). Presentation: The History of the Reizei Family Library.
+
+
+`2017`  19th Annual Conference "History and Culture of Japan" (Moscow). Presentation: Education with a book in the Edo Period based on "Ehon Hanakazura" (1765).
+
+
+<!-- ### Footer
+
+Last updated: October 2022 -->
+
